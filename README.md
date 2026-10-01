@@ -39,7 +39,7 @@ Each ticket contains:
 - a `README.md` (issue, diagnosis, resolution, demonstrated skills);
 - a `screenshots/` folder containing screenshots of the process.  👤 Author
 
-Landry OBAME – Junior Software & IT Support Engineer
+Landry OBAME –  Software & Junior IT Support Engineer
 www.linkedin.com/in/assoumouobamelandry
 https://landry-assoumou.web.app  => Portfolio
 
