@@ -1,35 +1,46 @@
-# INC8000141 – Directory Information Update
+ IT Support Portfolio
 
-**Platform:** SysDesks (help desk simulator)
-**Category:** Identity > User Attributes | **Priority:** P4 Low | **Level:** Service Desk Tier 1
+An IT support practice portfolio (Level 1), created after
+obtaining the **Google IT Support – Technical Support Fundamentals** certificate.
 
-## Reported Issue
-Maya Chen (Marketing, Austin HQ) reports that her office location and phone
-extension still show her previous position. She requests that a ticket be
-opened and provides the necessary approval information.
+🎯 Project Objective
 
-## Diagnostic Steps
-1. Review ticket and identify category (user attributes).
-2. Consult required console: process handled in Active Directory;
-   no remote session required.
-3. Contact user to obtain new office location, new extension, and
-   required approval.
-4. Verify requester's identity.
+This repository aims to put the skills acquired during my training into practice
+using realistic scenarios and to make them verifiable.
+Each ticket is handled using a help desk simulator (SysDesks) and then
+documented just as it would be in a real support team:
 
-## Resolution
-- Updated Office and Telephone attributes in Active Directory.
-- Confirmed with Maya that the directory displays the correct information.
-- Ticket closed with "Solved (Permanently)" code.
+- understanding the issue reported by the user;
+- diagnosing before acting;
+- applying the simplest and safest solution;
+- having the user confirm the result;
+- writing clear resolution notes.
 
-## Resolution Notes Sent
-> Cause: Office and Telephone attributes had not been updated following
-> the office move. Action: Updated in Active Directory after
-> verification. Verification: User confirmed that everything is correct.
+🛠️ Skills Practiced
 
-## Skills Demonstrated
-Customer communication, identity verification, adherence to approval
-process, documentation, Active Directory usage (basic level).
+- Ticket analysis and prioritization (priority, SLA)
+- Account and directory attribute management (Active Directory, basic level)
+- Email and password troubleshooting
+- Basic network diagnostics (IP, DNS, connectivity)
+- User communication and pre-closure verification
+- Documentation and resolution note writing
 
-## Screenshots
-![Ticket](screenshots/01-ticket.png)
-![Resolution](screenshots/02-resolution.png)
+ 🔄 Methodology Applied
+
+1. Read the ticket and user correspondence in full
+2. Identify the cause before making any changes
+3. Take minimal and safe action
+4. Have the user confirm the resolution
+5. Document: cause, action, verification
+
+ 📌 Folder Contents
+
+Each ticket contains:
+- a `README.md` (issue, diagnosis, resolution, demonstrated skills);
+- a `screenshots/` folder containing screenshots of the process.  👤 Author
+
+Landry OBAME – Junior Software & IT Support Engineer
+www.linkedin.com/in/assoumouobamelandry
+https://landry-assoumou.web.app  => Portfolio
+
+*The screenshots are from a simulation environment. No real data is used.*
