@@ -29,7 +29,3 @@ opened and provides the necessary approval information.
 ## Skills Demonstrated
 Customer communication, identity verification, adherence to approval
 process, documentation, Active Directory usage (basic level).
-
-## Screenshots
-![Capture d'écran 2026-10-01 125250.jpg)
-![Resolution](screenshots/02-resolution.png)
